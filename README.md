@@ -5,4 +5,4 @@
 ### 오픽 성적: 오픽 성적 증명서
 ### 포트폴리오: CV
 ### 겨울방학 개인 프로젝트 인포그래픽: MobileRobotProject_Poster.pdf
-### 겨울방학 개인 프로젝트 논문 자료: Encoder&IMU_SensorFusion_EKF
+### 겨울방학 개인 프로젝트 논문 자료: Encoder&IMU_SensorFusion_EKF.pdf
